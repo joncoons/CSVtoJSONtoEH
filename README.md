@@ -1,1 +1,1 @@
-Azure Function using the Blob Trigger to transform a CSV, line by line, into JSON, and push each message into an Event Hub.
+This is an Azure Function using the C# Blob Trigger to transform a CSV with headers, line by line, into JSON, and push each message into an Event Hub for ingest into Azure Stream Analytics, Time Series Insights or other work stream.
